@@ -10,6 +10,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <h1 style={{ backgroundColor: "red" }}>TEST</h1>
         <p>Bleblebleb</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
